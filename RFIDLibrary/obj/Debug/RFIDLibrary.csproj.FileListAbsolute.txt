@@ -1,0 +1,7 @@
+C:\Users\antea\source\repos\RFIDLibrary\RFIDLibrary\obj\Debug\RFIDLibrary.csproj.AssemblyReference.cache
+C:\Users\antea\source\repos\RFIDLibrary\RFIDLibrary\obj\Debug\RFIDLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\antea\source\repos\RFIDLibrary\RFIDLibrary\obj\Debug\RFIDLibrary.exe.config
+C:\Users\antea\source\repos\RFIDLibrary\RFIDLibrary\obj\Debug\RFIDLibrary.Properties.Resources.resources
+C:\Users\antea\source\repos\RFIDLibrary\RFIDLibrary\obj\Debug\RFIDLibrary.csproj.GenerateResource.cache
+C:\Users\antea\source\repos\RFIDLibrary\RFIDLibrary\obj\Debug\RFIDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\antea\source\repos\RFIDLibrary\RFIDLibrary\obj\Debug\RFIDLibraryApp.MainForm.resources
