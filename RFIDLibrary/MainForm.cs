@@ -14,6 +14,8 @@ namespace RFIDLibrary
 
         public MainForm()
         {
+            SQLitePCL.Batteries.Init(); // Initialize SQLitePCL
+
             InitializeComponent();
             InitializeDatabase();
         }
@@ -52,7 +54,7 @@ namespace RFIDLibrary
             reader = new ImpinjReader();
             try
             {
-                reader.Connect("hostname"); // Zamijeni "hostname" s IP adresom ili imenom čitača
+                reader.Connect("SpeedwayR-15-EF-80"); // Zamijeni "hostname" s IP adresom ili imenom čitača
                 Settings settings = reader.QueryDefaultSettings();
                 settings.Report.IncludeAntennaPortNumber = true;
                 settings.Report.IncludeFirstSeenTime = true;

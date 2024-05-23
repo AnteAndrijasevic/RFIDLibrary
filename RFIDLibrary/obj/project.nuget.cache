@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "hxV/ZWtN/OlUw4QYReplZKLJ2PcVd7jChhZ5l9S17XMK9Hj/RuMcHBxhGJe2xkrhM5a9uzvzv4Gu8hfoGD8hbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\antea\\source\\repos\\RFIDLibrary\\RFIDLibrary\\RFIDLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antea\\.nuget\\packages\\microsoft.data.sqlite\\6.0.4\\microsoft.data.sqlite.6.0.4.nupkg.sha512",
+    "C:\\Users\\antea\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.4\\microsoft.data.sqlite.core.6.0.4.nupkg.sha512",
+    "C:\\Users\\antea\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\antea\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\antea\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\antea\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\antea\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\antea\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\antea\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\antea\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: SQLitePCLRaw.bundle_e_sqlite3 from 2.0.6 to 2.0.4. Reference the package directly from the project to select a different version. \r\n RFIDLibrary -> Microsoft.Data.Sqlite 6.0.4 -> SQLitePCLRaw.bundle_e_sqlite3 (>= 2.0.6) \r\n RFIDLibrary -> SQLitePCLRaw.bundle_e_sqlite3 (>= 2.0.4)",
+      "libraryId": "SQLitePCLRaw.bundle_e_sqlite3",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win",
+        ".NETFramework,Version=v4.6.1/win-arm64",
+        ".NETFramework,Version=v4.6.1/win-x64",
+        ".NETFramework,Version=v4.6.1/win-x86"
+      ]
+    }
+  ]
+}
